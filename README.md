@@ -2,6 +2,7 @@
 
 ### Github Repo for Sourcing Data and Analytic's Storytelling Project
 #### Diving into the activity of music listener's around the world.
+Explored more about habits of listeners of different countries, artists, and their favorite genres.
 
 ## Dataset
 
